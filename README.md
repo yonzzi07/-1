@@ -232,11 +232,11 @@ Server:
  CPUs: 8
  Total Memory: 15.38GiB
  Name: docker-desktop
- ID: 40067418-081f-4876-87a4-a3d27fb69632
+ ID: 00000000-0000-0000-0000-000000000000
  Docker Root Dir: /var/lib/docker
  Debug Mode: false
- HTTP Proxy: http.docker.internal:3128
- HTTPS Proxy: http.docker.internal:3128
+ HTTP Proxy: http.docker.internal:0000
+ HTTPS Proxy: http.docker.internal:0000
  No Proxy: hubproxy.docker.internal
  Labels:
   com.docker.desktop.address=unix:///var/run/docker-cli.sock
